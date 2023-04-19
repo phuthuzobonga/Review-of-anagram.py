@@ -13,6 +13,7 @@ To use this program, you should have Python 3 installed on your machine.
 Usage
 
 Clone the repository:
+https://github.com/phuthuzobonga/Review-of-anagram.py/blob/main/code.py
 
 ## Code Review
 
